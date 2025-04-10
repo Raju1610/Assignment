@@ -44,7 +44,7 @@ public class Assignment1_Datatypes {
 		System.out.println("current year:" + currentyear);
 
 //11.Number of followers on a social media platform: 1,000,000
-		int followersonasocialmedia = 100000;
+		String followersonasocialmedia = "1,00,000";
 		System.out.println("Followers on a social meia platform: " + followersonasocialmedia);
 
 //12.Rating of a movie: 7.5
