@@ -3,8 +3,6 @@ package org.sprac.cretio.crm.basics;
 public class Assignment1_Datatypes {
 
 	public static void main(String[] args) {
-		// 1. Temperature of a city in degrees Celsius: 25.5
-		double celsius = 25.5;
 		System.out.println("celscius" + "=" + "25.5");
 
 //2. Whether a customer has placed an order: true or false
